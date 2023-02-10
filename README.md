@@ -1,0 +1,1 @@
+# Gopas-stano-app
